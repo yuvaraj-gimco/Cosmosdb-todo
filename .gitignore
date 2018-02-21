@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs/todo/v15
+/packages
+/Repository/bin/Debug
+/Repository/obj/Debug
+/Services/bin/Debug
+/Services/obj/Debug
+/src/bin
+/src/obj/Debug
